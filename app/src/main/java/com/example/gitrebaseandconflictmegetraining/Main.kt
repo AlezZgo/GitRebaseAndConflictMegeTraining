@@ -31,5 +31,9 @@ class Main {
 
     // master 4
 
+    fun hello(){
+        //world
+    }
+
 
 }
