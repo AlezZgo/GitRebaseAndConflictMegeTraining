@@ -35,9 +35,15 @@ class Main {
         //world
     }
 
+    fun toRebaseMethod(){
+        //rebase
+    }
+
     fun bugFix(){
         //bug fix 1
     }
+
+    //myFeature
 
 
 }
