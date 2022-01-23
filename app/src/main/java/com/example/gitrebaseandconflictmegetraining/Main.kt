@@ -8,6 +8,12 @@ class Main {
 
     //bug fix 3
 
+    //feature 1
+
+    //feature 2
+
+    //feature 3
+
 
     // bug fix 4
 
