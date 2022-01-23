@@ -7,3 +7,7 @@ package com.example.gitrebaseandconflictmegetraining
 fun bugFix3(){
     //fixed
 }
+
+fun bugFix4(){
+
+}
