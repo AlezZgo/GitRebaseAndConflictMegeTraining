@@ -10,4 +10,6 @@ fun bugFix3(){
 
 fun bugFix4(){
 
+fun newFeature(){
+    // Oh my god!
 }
