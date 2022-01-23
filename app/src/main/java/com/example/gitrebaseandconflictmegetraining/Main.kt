@@ -35,8 +35,16 @@ class Main {
         //world
     }
 
+    fun featured1(){
+
+    }
+
     fun toRebaseMethod(){
         //rebase
+    }
+
+    fun featured2(){
+
     }
 
     fun bugFix(){
